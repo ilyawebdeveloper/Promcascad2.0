@@ -825,3 +825,28 @@ color: #625656;
 .social__img{
  margin-left: 20px;
 }
+
+
+.form{
+   width: 200px;
+   height: 300px;
+   margin:0 auto;
+}
+
+.form__input{
+   margin-top: 20px;
+   height: 30px;
+   border: #E45128 2px solid;
+}
+
+.form__button{
+   margin-top: 40px;
+   width: auto;
+   background: #f58769;
+   font-size: 20px;
+   color: #FFFFFF;
+}
+
+.form__container{
+   margin-top: 50px;
+}
